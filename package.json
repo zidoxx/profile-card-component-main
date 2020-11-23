@@ -1,0 +1,11 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "card component",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Esteban Castaño Rivera",
+  "license": "MIT"
+}
